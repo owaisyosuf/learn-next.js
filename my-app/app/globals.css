@@ -40,3 +40,17 @@ a {
     color-scheme: dark;
   }
 }
+#footer {
+  background-color: rgb(226, 221, 175);
+  font-size: 20px;
+}
+
+#navbar {
+  height: 50px;
+  background-color: rgb(226, 221, 175);
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  gap: 100px;
+  justify-content: right;
+}

@@ -5,7 +5,7 @@ export default function contact() {
   return (
     <div>
       <div id="heading">
-        <Nav />
+        {/* <Nav /> */}
         <h1>this is contact page</h1>
       </div>
     </div>

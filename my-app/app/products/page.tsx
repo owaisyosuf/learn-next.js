@@ -5,7 +5,7 @@ import Detail from "../detail";
 function Product() {
   return (
     <div>
-      <Detail />
+      {/* <Detail /> */}
       <h1>product</h1>
     </div>
   );

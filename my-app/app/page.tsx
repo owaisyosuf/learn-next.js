@@ -6,7 +6,7 @@ import Nav from "./Nav";
 export default function Home() {
   return (
     <div id="heading">
-      <Nav />
+      {/* <Nav /> */}
       <h1>this is home page</h1>
     </div>
   );

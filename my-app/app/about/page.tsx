@@ -5,7 +5,7 @@ export default function about() {
   return (
     <div>
       <div id="heading">
-        <Nav />
+        {/* <Nav /> */}
         <h1>this is about page</h1>
       </div>
     </div>
