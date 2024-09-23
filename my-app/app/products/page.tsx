@@ -6,7 +6,7 @@ function Product() {
   return (
     <div>
       {/* <Detail /> */}
-      <h1>product</h1>
+      <h1>This is product Page</h1>
     </div>
   );
 }
