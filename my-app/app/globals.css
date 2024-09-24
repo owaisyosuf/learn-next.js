@@ -60,8 +60,15 @@ a {
   background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20201101/pngtree-scene-with-geometrical-forms-the-poster-model-minimal-background-render-image_452981.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
   font-size: larger;
   text-align: center;
+  border: 2px solid black;
+}
+#form1 {
+  width: 500px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
